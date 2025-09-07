@@ -5,8 +5,8 @@ Instruções para entrega
 
 - Variáveis
 - Operadores
-- Laços de repetição
-- Estruturas de decisões
+- Laços de repetição (FOR / WHILE / DO WHILE)
+- Estruturas de decisões (SWITCH CASE)
 
 ## Objetivo
 
